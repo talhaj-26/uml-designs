@@ -1,0 +1,232 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="EusrG0aMTweCUi_VJvPS">
+    <mxGraphModel dx="3369" dy="2151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;fontFamily=Times New Roman;fontSize=12;fontColor=#EEEEEE;fontStyle=0;" target="_YAZ0QSrARfD1UDSeOrh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-9" edge="1" parent="1" source="_YAZ0QSrARfD1UDSeOrh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;fontFamily=Times New Roman;fontSize=12;fontColor=#EEEEEE;fontStyle=0;" target="_YAZ0QSrARfD1UDSeOrh-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-2" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Community Doctor Refers Patient" vertex="1">
+          <mxGeometry height="50" width="190" x="330" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;fontFamily=Times New Roman;fontSize=12;fontColor=#EEEEEE;fontStyle=0;" target="_YAZ0QSrARfD1UDSeOrh-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-3" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Verify patient details" vertex="1">
+          <mxGeometry height="50" width="135" x="357.5" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-1" edge="1" parent="1" source="_YAZ0QSrARfD1UDSeOrh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="_YAZ0QSrARfD1UDSeOrh-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-4" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Create Planned Admission&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Send planned admission date&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="340" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-3" edge="1" parent="1" source="_YAZ0QSrARfD1UDSeOrh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-15" edge="1" parent="1" source="_YAZ0QSrARfD1UDSeOrh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YAZ0QSrARfD1UDSeOrh-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;" value="Cancel Admission?" vertex="1">
+          <mxGeometry height="160" width="160" x="345" y="377" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-12" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-2" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Record Cancellation Date &amp;amp; Reason" vertex="1">
+          <mxGeometry height="50" width="135" x="110" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="268" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-9" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#ffffff, #ededed);fontFamily=Times New Roman;" value="End" vertex="1">
+          <mxGeometry height="30" width="30" x="162.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-10" parent="1" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fontFamily=Times New Roman;" value="Start" vertex="1">
+          <mxGeometry height="60" width="60" x="395" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-18" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-13" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Hospital Doctor Offers Admission Date" vertex="1">
+          <mxGeometry height="40" width="230" x="310" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="407" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-20" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-31" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-17" parent="1" style="rhombus;fontFamily=Times New Roman;" value="Need to Delay" vertex="1">
+          <mxGeometry height="160" width="160" x="345" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-23" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-19" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Defer Admission&lt;div&gt;(Record Delay)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="135" x="583" y="719" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-26" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-32" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;" value="Cancel Deferred Admission" vertex="1">
+          <mxGeometry height="135" width="135" x="583" y="824" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-29" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-25" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Record Cancellation Date &amp;amp; Reason" vertex="1">
+          <mxGeometry height="50" width="135" x="700" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="868" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-28" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#ffffff, #ededed);fontFamily=Times New Roman;" value="End" vertex="1">
+          <mxGeometry height="30" width="30" x="752.5" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-36" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-30" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Patient Arrive&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Activate Admission (Record Admission Date)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="320" y="867" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-38" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-35" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Record Diagnosis" vertex="1">
+          <mxGeometry height="30" width="135" x="358" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-40" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-54" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;" value="Is Diagnosis Treatable" vertex="1">
+          <mxGeometry height="120" width="120" x="365" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-47" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-39" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Discharge Patient&amp;nbsp;&lt;div&gt;(No Treatable Diagnosis)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="100" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="276" y="1086" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-48" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-42" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Record Discharge details&amp;nbsp;&lt;div&gt;(Reason &amp;amp; Date)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="97.5" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-49" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-44" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Prepare &amp;amp; Send&lt;div&gt;Discharge Notes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="97.5" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-50" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-45" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Give Discharge Advice&amp;nbsp;&lt;div&gt;to Patient&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="97.5" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-46" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#ffffff, #ededed);fontFamily=Times New Roman;" value="End" vertex="1">
+          <mxGeometry height="30" width="30" x="162.5" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-56" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-51" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Mark Admission as Treatable" vertex="1">
+          <mxGeometry height="30" width="180" x="545" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-57" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-52" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Provide Treatment&amp;nbsp;&lt;div&gt;(Surgery / Medication / Both)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="540" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-58" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800.04" y="1350.04" />
+              <mxPoint x="800.04" y="1230.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-70" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-53" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Times New Roman;" value="More Treatment Required?" vertex="1">
+          <mxGeometry height="120" width="120" x="575" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="523" y="1086" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="708" y="1326" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-71" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-60" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Complete Treatment Cycle" vertex="1">
+          <mxGeometry height="30" width="160" x="555" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-72" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-61" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Discharge Patient" vertex="1">
+          <mxGeometry height="30" width="160" x="555" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-73" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-62" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Record Discharge&amp;nbsp; Details&lt;div&gt;(Reason &amp;amp; Date)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="555" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-69" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-63" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Prepare &amp;amp; Send&lt;div&gt;Discharge Notes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="555" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-75" edge="1" parent="1" source="i5QG1UhdVV-87cj0gGSp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" target="i5QG1UhdVV-87cj0gGSp-65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-64" parent="1" style="html=1;whiteSpace=wrap;fontFamily=Times New Roman;" value="Give Discharge Advice to Patient" vertex="1">
+          <mxGeometry height="40" width="160" x="555" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-65" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#ffffff, #ededed);fontFamily=Times New Roman;" value="End" vertex="1">
+          <mxGeometry height="30" width="30" x="620" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="i5QG1UhdVV-87cj0gGSp-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="619" y="1405" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
